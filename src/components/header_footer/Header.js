@@ -19,8 +19,10 @@ class Header extends Component {
         window.addEventListener('scroll',this.handleScroll);
     }
 
+    
+
     handleScroll = () =>{
-        if(window.scrollY>0){
+        if(window.scrollY > 0){
             this.setState({
                 headerShow:true
             })
@@ -56,7 +58,7 @@ class Header extends Component {
 
                         <IconButton
                             aria-label="Menu"
-                            color="Inherit"
+                            color="inherit"
                             onClick={()=>this.toggleDrawer(true)}
                         >
                             <MenuIcon>
