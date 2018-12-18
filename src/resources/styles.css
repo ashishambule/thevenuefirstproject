@@ -89,7 +89,7 @@ footer .footer_copyright {
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 400px;
+    width: 300px;
     height: 160px;
     -webkit-transform: translate(-50%, -50%);  
     transform: translate(-50%, -50%);   

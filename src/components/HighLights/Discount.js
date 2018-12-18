@@ -43,7 +43,7 @@ class Discount extends Component {
                     </span>
                 
                     <span>
-                        OFF
+                        Prepared
                     </span>
                 </div>
                    </Fade>
@@ -51,11 +51,11 @@ class Discount extends Component {
                    <Slide right>
 
                    <div className="discount_description">
-                        <h3>Purchase Tickets before 01 Jan 2019</h3>
+                        <h3>Complete Study before 01 Jan 2019</h3>
                         <p>Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
                     
                         <MyButton
-                        text="Purchase tickets"
+                        text="Do Study"
                         bck="#ffa800"
                         color="#ffffff"
                         link="http://google.com"

@@ -9,7 +9,7 @@ const Featured = () => {
 
             <div className="artist_name">
             <div className="wrapper">
-                Arina Grande
+                IoT Students
             </div>
             </div>
             <TimeUntil/>

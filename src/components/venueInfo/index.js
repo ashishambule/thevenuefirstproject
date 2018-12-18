@@ -24,12 +24,12 @@ const VenueInfo = () => {
                                         }}    
                                     ></div>
                                 <div className="vn_title">
-                                    Event Date & Time
+                                    Exam Date & Time
 
                                 </div>
                                 <div className="vn_desc">
 
-                                6 January 2019 @12:00 AM
+                                7 January 2019 @12:00 PM
                                 </div>
                             </div>
                         </div>
@@ -49,12 +49,12 @@ const VenueInfo = () => {
                                         }}    
                                     ></div>
                                 <div className="vn_title">
-                                    Event Location
+                                    Exam Location
 
                                 </div>
                                 <div className="vn_desc">
 
-                                CDAC Innovation Park Pune
+                                CDAC Innovation Park Pashan,Pune
                                 </div>
                             </div>
                         </div>
